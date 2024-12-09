@@ -1,0 +1,12 @@
+{
+  "name": "andreafspeziale/package-random-number",
+  "description": "A package for generating random numbers.",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "RandomNumberGenerator\\": "src/"
+    }
+  },
+  "license": "MIT",
+  "require": {}
+}

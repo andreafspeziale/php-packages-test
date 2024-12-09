@@ -1,0 +1,12 @@
+{
+  "name": "andreafspeziale/package-random-string",
+  "description": "A package for generating random strings.",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "RandomStringGenerator\\": "src/"
+    }
+  },
+  "license": "MIT",
+  "require": {}
+}
